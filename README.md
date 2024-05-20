@@ -31,6 +31,7 @@ Process Status
 * ps -efl 실행 예시
 ![image](https://github.com/AngolMinsu/OpensourceSW/assets/106021108/419c1a47-6e96-4839-8c18-bc7c9018c5b8)
 * F : 프로세스 플래그
+* 
   `4: used super-user privileges`
 
   `1: forked ut didn't exec`
@@ -40,6 +41,7 @@ Process Status
   `0 : 어느 플래그도 아님`
   
 * S : 프로세스의 현재 상태
+* 
   `R: 실행 중 혹은 실행 가능 상채`
   
   `S: 대기`
@@ -60,7 +62,8 @@ Process Status
 
 ## jobs
 쉘에서 실행한 프로세스 목록을 확인하는 명령어
-![[Pasted image 20240520135334.png]]
+![Pasted image 20240520135334](https://github.com/AngolMinsu/OpensourceSW/assets/106021108/313f19da-29e9-40d8-ac1e-96aea01359d5)
+
 그냥 실행하면 아무것도 안나온다
 jobs /option/ /job/ 으로 사용한다
 *  `-l` 옵션: 프로세스 ID와 함께 작업 목록을 출력
@@ -81,8 +84,11 @@ kill /option/ PID로 사용한다
 
  `-q, --queue : 프로세스에 시그널을 보내는 대신 시그널을 대기열에 추` 
 * 신호
-![[Pasted image 20240520140034.png]]
+* ![Pasted image 20240520140034](https://github.com/AngolMinsu/OpensourceSW/assets/106021108/87b7631c-89f9-47d8-895d-ca40b6415168)
+
 *kill을 사용하여 python3(PID : 553)을 종료*
-![[Pasted image 20240520140303.png]]
+![Pasted image 20240520140303](https://github.com/AngolMinsu/OpensourceSW/assets/106021108/513111ae-2f4a-4474-bcc0-8bd3928a1b9e)
+
 *kill을 사용하여 gitstatusd-linu를 종료*
-![[Pasted image 20240520140441.png]]
+![Pasted image 20240520140441](https://github.com/AngolMinsu/OpensourceSW/assets/106021108/65c3b126-7cd5-4415-9409-c73a11295b30)
+
