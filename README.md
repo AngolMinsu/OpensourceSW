@@ -4,6 +4,7 @@ This is HomeWork README.md
 현재 OS의 상태를 나타내주는 CLI 어플리케이션
 ![image](https://github.com/AngolMinsu/OpensourceSW/assets/106021108/5db70e6e-cb1d-4e29-b6a4-a50695baff43)
 맨 윗줄부터
+
 `시스템 현재시간, OS가 살아있는 시간, 유저 세션 수`
 
 `총 작업수, 현재 실행중인 작업수, 자고있는 작업수, 멈춘 작업수, 좀비작업수`
