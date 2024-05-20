@@ -20,9 +20,13 @@ Process Status
 현재 구동중인 프로세스 정보를 확인할 수 있다.
 ![image](https://github.com/AngolMinsu/OpensourceSW/assets/106021108/e580ca6b-f8d1-4d27-ac3d-77d40efb785c)
 * 옵션
+*  
   `-e` : 모든 사용자가 구동시킨 프로세스를 보여줌
+  
   `-f` : 자세한 내용을 보여줌
+
   `-l `: -f 보다 더 자세히 보여줌
+
 * ps -efl 실행 예시
 ![image](https://github.com/AngolMinsu/OpensourceSW/assets/106021108/419c1a47-6e96-4839-8c18-bc7c9018c5b8)
 * F : 프로세스 플래그
@@ -67,6 +71,7 @@ jobs /option/ /job/ 으로 사용한다
 프로세스를 종료하는 명령어
 kill /option/ PID로 사용한다
  * 옵션
+
  `-s : 특정 시그널을 사용하여 프로세스를 종료`
 
  `-l, --list : 지원되는 시그널 목록을 출력`
