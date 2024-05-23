@@ -66,7 +66,7 @@ Process Status
 
 그냥 실행하면 아무것도 안나온다
 
-백그라운드에 ss.sh를 실행시킨 후 jobs를 실행한 모
+백그라운드에 ss.sh를 실행시킨 후 jobs를 실행
 ![image](https://github.com/AngolMinsu/OpensourceSW/assets/106021108/ff69d082-8383-44f4-b622-342606c72188)
 
 jobs /option/ /job/ 으로 사용한다
