@@ -65,6 +65,10 @@ Process Status
 ![Pasted image 20240520135334](https://github.com/AngolMinsu/OpensourceSW/assets/106021108/313f19da-29e9-40d8-ac1e-96aea01359d5)
 
 그냥 실행하면 아무것도 안나온다
+
+백그라운드에 ss.sh를 실행시킨 후 jobs를 실행한 모
+![image](https://github.com/AngolMinsu/OpensourceSW/assets/106021108/ff69d082-8383-44f4-b622-342606c72188)
+
 jobs /option/ /job/ 으로 사용한다
 *  `-l` 옵션: 프로세스 ID와 함께 작업 목록을 출력
 - `-n` 옵션: 마지막로 알림 이후 변경된 작업 출력
@@ -84,6 +88,11 @@ kill /option/ PID로 사용한다
 
  `-q, --queue : 프로세스에 시그널을 보내는 대신 시그널을 대기열에 추` 
 * 신호
+* ![Pasted image 20240520140034](https://github.com/AngolMin
+* su/OpensourceSW/assets/106021108/87b7631c-89f9-47d8-895d-ca40b6415168)
+
+
+*kill을 사용하여 아까 실행시킨 ss.sh를 종료*
 * ![Pasted image 20240520140034](https://github.com/AngolMinsu/OpensourceSW/assets/106021108/87b7631c-89f9-47d8-895d-ca40b6415168)
 
 *kill을 사용하여 python3(PID : 553)을 종료*
@@ -91,4 +100,3 @@ kill /option/ PID로 사용한다
 
 *kill을 사용하여 gitstatusd-linu를 종료*
 ![Pasted image 20240520140441](https://github.com/AngolMinsu/OpensourceSW/assets/106021108/65c3b126-7cd5-4415-9409-c73a11295b30)
-
