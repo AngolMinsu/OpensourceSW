@@ -88,12 +88,10 @@ kill /option/ PID로 사용한다
 
  `-q, --queue : 프로세스에 시그널을 보내는 대신 시그널을 대기열에 추` 
 * 신호
-* ![Pasted image 20240520140034](https://github.com/AngolMin
-* su/OpensourceSW/assets/106021108/87b7631c-89f9-47d8-895d-ca40b6415168)
-
+* ![Pasted image 20240520140034](https://github.com/AngolMinsu/OpensourceSW/assets/106021108/87b7631c-89f9-47d8-895d-ca40b6415168)
 
 *kill을 사용하여 아까 실행시킨 ss.sh를 종료*
-* ![Pasted image 20240520140034](https://github.com/AngolMinsu/OpensourceSW/assets/106021108/87b7631c-89f9-47d8-895d-ca40b6415168)
+![image](https://github.com/AngolMinsu/OpensourceSW/assets/106021108/a465bca2-2b92-4e1b-8b22-c1c007a210be)
 
 *kill을 사용하여 python3(PID : 553)을 종료*
 ![Pasted image 20240520140303](https://github.com/AngolMinsu/OpensourceSW/assets/106021108/513111ae-2f4a-4474-bcc0-8bd3928a1b9e)
